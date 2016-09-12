@@ -1,8 +1,4 @@
 nihao
 hello world
 hhhhh
-<<<<<<< HEAD
-999
-=======
 888
->>>>>>> dev
